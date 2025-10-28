@@ -1,39 +1,45 @@
 
+VC_FUND_TYPES = [
+    'seed', 'series_unknown', 'series_a', 'pre_seed', 'series_b', 'angel',
+    'series_c', 'convertible_note', 'corporate_round', 'undisclosed',
+    'series_d', 'series_e', 'series_f', 'series_g', 'series_h', 'series_i', 'series_j'
+]
+
+
+
 
 platform_categories = [
     # Core marketplaces and sharing
     'Marketplace', 'E-Commerce', 'E-Commerce Platforms', 'Online Auctions',
-    'Auctions', 'Shopping', 'Crowdfunding', 'Funding Platform',
+    'Auctions',  'Crowdfunding', 'Funding Platform',
     'Peer to Peer', 'Sharing Economy', 'Collaborative Consumption',
-    'Classifieds', 'Rental', 'Group Buying', 'Vacation Rental', 'Ride Sharing',
+    'Classifieds', 'Rental', 'Group Buying', 'Ride Sharing',
     'Car Sharing', 'Food Delivery', 'Delivery Service', 'Ticketing',
-    'Online Portals', 'Price Comparison', 'Trading Platform', 'Financial Exchanges',
+    'Price Comparison', 'Trading Platform', 'Financial Exchanges',
 
     # Social & communication platforms
-    'Social Media', 'Social Network', 'Communities', 'Social', 'Messaging',
-    'VoIP', 'Social Bookmarking', 'Private Social Networking',
+    'Social Media', 'Social Network', 'Communities',  'Messaging',
+    'Social Bookmarking', 'Private Social Networking',
     'Professional Networking', 'Social Recruiting', 'Online Forums',
-    'Social Shopping', 'Social News', 'Social Entrepreneurship',
-    'Dating', 'Content Creators',
+    'Social Shopping', 'Social News', 
+    'Dating', 
 
     # Content / creator platforms
-    'Video Streaming', 'Music Streaming', 'Podcast', 'Video on Demand',
+    'Video Streaming', 'Music Streaming',  'Video on Demand',
     'Video Sharing', 'Photo Sharing', 'Blogging Platforms', 'Streaming',
-    'Content Discovery', 'Content Marketing', 'Content Syndication',
 
     # Financial / fintech platforms
-    'FinTech', 'Payments', 'Mobile Payments', 'Lending', 'Micro Lending',
-    'Consumer Lending', 'Trading Platform', 'Virtual Currency', 'Cryptocurrency',
-    'Decentralized Finance (DeFi)', 'Financial Exchanges',
+    'Payments', 'Mobile Payments', 
+    'Trading Platform', 'Financial Exchanges',
 
     # Developer & SaaS ecosystems
-    'Developer Platform', 'Developer APIs', 'API', 'App Discovery', 
-    'App Store', 'PaaS', 'Cloud Platform', 'SaaS', 'IaaS',
+    'Developer Platform', 'App Discovery', 
+    'App Store', 'PaaS', 'Cloud Platform', 
 
     # Other multi-sided / intermediation cases
     'Crowdsourcing', 'Job Marketplace', 'Recruiting Platform',
-    'Online Education Platform', 'MOOC', 'Coworking', 'Freelance',
-    'Funding Platform', 'Affiliate Marketing', 'Influencer Marketing'
+    'Online Education Platform', 'Freelance',
+    'Funding Platform', 
 ]
 
 non_platform_categories = [
