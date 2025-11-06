@@ -137,8 +137,8 @@ platform_keywords = [
 
     # Social / Communication / Media Platforms
     "social network", "social media", "social platform", "sharing platform",
-    "content creators", "user-generated content", "ugc", "followers", "likes",
-    "community", "online community", "creators", "influencer", "social app",
+    "content creators", "user-generated content", "ugc", 
+    "community", "online community",  "social app",
     "discussion forum", "messaging platform", "chat platform",
     "communication platform", "blogging platform", "video sharing",
     "photo sharing", "livestreaming", "streaming platform", "subscription platform",
@@ -201,13 +201,13 @@ non_platform_keywords = [
     # Linear Production / Industry
     "manufacturing", "production", "factory", "supply chain", "equipment",
     "hardware", "plant", "assembly", "processing", "wholesale", "distribution",
-    "industrial", "engineering", "construction", "infrastructure", "supplier",
+    "industrial", "engineering", "construction", "infrastructure", "supplier", "photo editor", "photo editing", "creator tools", "content marketing", "video editor", "video editing",
 
     # Professional / Consulting / Services
     "consulting", "agency", "advisory", "outsourcing", "professional services",
     "training", "education provider", "management consulting", "law firm",
     "legal services", "accounting", "auditing", "human resources",
-    "recruitment agency", "research firm", "laboratory", "testing services",
+    "recruitment agency", "research firm", "laboratory", "testing services", "marketing agency",
 
     # Finance (Traditional)
     "investment firm", "venture capital", "private equity", "fund management",
