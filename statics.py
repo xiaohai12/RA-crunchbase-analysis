@@ -229,3 +229,137 @@ non_platform_keywords = [
     "travel agency", "hospitality", "wholesale", "product line", "distribution",
     "packaged goods", "fashion brand", "cosmetics brand", "hardware store"
 ]
+
+digital_nonplatform_keywords = [
+    # creative / software tools
+    "digital", "software"
+    "photo editor", "photo editing", "creator tools",
+    "video editor", "video editing",
+    # digital marketing / online services
+    "content marketing", "marketing agency",
+    # general professional services that are often delivered digitally
+    "consulting", "agency", "advisory", "outsourcing",
+    "professional services", "training", "education provider",
+    "management consulting", "accounting", "auditing",
+    "human resources", "recruitment agency", "research firm",
+    "testing services"
+]
+
+nondigital_nonplatform_keywords = [
+    # Linear Production / Industry
+    "manufacturing", "production", "factory", "supply chain", "equipment",
+    "hardware", "plant", "assembly", "processing", "wholesale", "distribution",
+    "industrial", "engineering", "construction", "infrastructure", "supplier",
+
+    # Finance (Traditional)
+    "investment firm", "venture capital", "private equity", "fund management",
+    "asset management", "banking", "insurance", "pension", "wealth management",
+    "financial advisor", "broker dealer", "mortgage provider",
+
+    # Healthcare / Biotech / Science
+    "pharmaceutical", "biotech", "medical device", "healthcare", "hospital",
+    "clinic", "therapeutics", "life sciences", "diagnostics", "drug development",
+    "biotechnology", "medtech",
+
+    # Real Assets / Energy
+    "energy", "mining", "oil", "gas", "power generation", "solar farm",
+    "wind farm", "utilities", "construction", "real estate development",
+    "property management", "architecture",
+
+    # Retail / Consumer Goods
+    "retail", "consumer goods", "food manufacturing", "restaurant", "hotel",
+    "travel agency", "hospitality", "wholesale", "product line", "distribution",
+    "packaged goods", "fashion brand", "cosmetics brand", "hardware store"
+]
+
+digital_nonplatform_categories = [
+    # --- Professional / Consulting / Business Services ---
+    "IT Consulting", "Consulting", "Management Consulting", "Business Consulting",
+    "Strategy Consulting", "Professional Services", "Corporate Training",
+    "Career Planning", "Coaching", "Outsourcing", "Advisory", "Agency",
+    "Creative Agency", "Design Agency", "Marketing Agency", "Advertising Agency",
+    "Public Relations", "Digital Marketing", "SEO", "SEM", "Direct Marketing",
+    "Brand Marketing",
+
+    # --- Finance / Data-Driven Services ---
+    "Finance", "Accounting", "Auditing", "Wealth Management",
+    "Asset Management", "Private Equity", "Venture Capital",
+    "Investment Banking", "Hedge Funds", "Mutual Funds", "Pension",
+    "Banking", "Credit Bureau", "Credit Cards", "Commercial Lending",
+    "Consumer Lending", "Financial Consulting", "Financial Planning",
+    "Tax Consulting", "Tax Preparation", "Compliance", "Risk Management",
+    "Audit", "Insurance",
+
+    # --- Education / EdTech / Learning ---
+    "Education", "EdTech", "E-Learning", "Universities", "Primary Education",
+    "Secondary Education", "Vocational Education", "Continuing Education",
+    "Higher Education", "Corporate Training",
+
+    # --- Healthcare Digital / Data-Based ---
+    "HealthTech", "Telehealth", "mHealth", "Wellness", "Personal Health",
+    "Health Insurance", "MedTech",
+
+    # --- Research / GovTech / CivicTech ---
+    "GovTech", "CivicTech", "Politics", "Government", "Think Tank",
+    "Research", "Institute",
+
+    # --- Media / Creative / Digital Agencies ---
+    "Media and Entertainment", "Advertising", "Creative Content",
+    "Marketing Agency", "Digital Marketing", "Streaming"
+]
+
+nondigital_nonplatform_categories = [
+    # --- Industrial / Engineering / Manufacturing ---
+    "Manufacturing", "Industrial", "Industrial Engineering", "Industrial Design",
+    "Industrial Automation", "Machinery Manufacturing", "Mechanical Design",
+    "Mechanical Engineering", "Electrical Distribution", "Aerospace", "Automotive",
+    "Construction", "Building Material", "Facility Management", "Hardware",
+    "Computer Hardware", "Electronics", "Semiconductor", "3D Printing", "Robotics",
+    "Embedded Systems", "Embedded Software", "Sensor", "Laser",
+    "Optical Communication", "Chemical", "Advanced Materials", "Metals", "Mining",
+    "Oil and Gas", "Energy", "Renewable Energy", "Solar", "Wind Energy",
+    "Nuclear", "Power Grid", "Utilities", "Smart Building", "Green Building",
+    "Heating  Ventilation  and Air Conditioning (HVAC)",
+
+    # --- Healthcare / Biotech / Pharma / Life Science ---
+    "Health Care", "Healthcare Services", "Medical", "Medical Device",
+    "Medical Equipment", "Pharmaceutical", "Biotechnology", "Biotech",
+    "Life Science", "Health Diagnostics", "Clinical Trials", "Genetics",
+    "Therapeutics", "Precision Medicine", "Hospital",
+    "Nursing and Residential Care", "Primary and Urgent Care",
+    "Rehabilitation", "Fertility", "Dental",
+
+    # --- Energy / Agriculture / Environment ---
+    "Agriculture", "Farming", "AgTech", "Forestry", "Fisheries", "Aquaculture",
+    "Water", "Water Purification", "Waste Management", "Recycling", "GreenTech",
+    "Biofuel", "Geothermal Energy", "Fuel Cell", "Pollution Control",
+    "Environmental Consulting", "Environmental Engineering",
+    "Sustainability Consulting",
+
+    # --- Real Estate / Construction / Property ---
+    "Real Estate", "Property Management", "Real Estate Investment",
+    "Property Development", "Real Estate Brokerage",
+    "Facilities Support Services", "Facility Management", "Architecture",
+    "Interior Design", "Home Renovation", "Home Improvement",
+    "Construction Tech", "Civil Engineering", "Smart Building",
+
+    # --- Consumer Goods / Retail / Hospitality ---
+    "Retail", "Wholesale", "Consumer Goods", "Consumer Electronics",
+    "Fashion", "Apparel", "Beauty", "Cosmetics", "Food and Beverage",
+    "Restaurants", "Bars", "Hospitality", "Hotel", "Travel Agency",
+    "Tour Operator", "Grocery", "Snack Food", "Wine And Spirits",
+    "Coffee", "Tea", "Bakery", "Catering", "Packaged Food",
+    "Fast-Moving Consumer Goods", "Home Appliances",
+
+    # --- Transportation / Logistics / Supply Chain ---
+    "Shipping", "Logistics", "Freight Service", "Warehousing",
+    "Delivery Service", "Supply Chain Management", "Fleet Management",
+    "Automotive Manufacturing", "Aviation", "Railroad",
+    "Marine Transportation", "Ports and Harbors", "Courier Service",
+    "Trucking", "Navigation", "GPS",
+
+    # --- Traditional Media / Entertainment ---
+    "Broadcasting", "Film Production", "TV Production", "Radio",
+    "Music Label", "Publishing", "News", "Journalism", "Book Publishing",
+    "Magazine", "Theatre", "Cinema", "Video Games", "Gaming", "Animation"
+]
