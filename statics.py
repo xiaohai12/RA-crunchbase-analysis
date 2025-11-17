@@ -232,7 +232,7 @@ non_platform_keywords = [
 
 digital_nonplatform_keywords = [
     # creative / software tools
-    "digital", "software"
+    "digital", "software","application", "app",
     "photo editor", "photo editing", "creator tools",
     "video editor", "video editing",
     # digital marketing / online services
