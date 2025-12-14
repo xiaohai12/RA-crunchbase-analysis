@@ -4,3 +4,6 @@
 *.csv
 *.xlsx
 *.txt
+*.json
+llm/
+*.jsonl
