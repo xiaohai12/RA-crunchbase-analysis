@@ -14,7 +14,7 @@ logging.basicConfig(level=logging.INFO)
 
 
 
-API_KEY = 'AIzaSyD9js1ZXffuAxZx9tppHWS_68iTrNXzEy8'
+# API_KEY = ???? 
 
 
 # new SDK clients
