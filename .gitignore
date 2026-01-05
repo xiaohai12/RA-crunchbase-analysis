@@ -7,3 +7,4 @@
 *.json
 llm/
 *.jsonl
+__pychache__/
